@@ -1,0 +1,14 @@
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/SOLID Principles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/SOLID Principles.AssemblyInfoInputs.cache
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/SOLID Principles.AssemblyInfo.cs
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/SOLID Principles.csproj.CoreCompileInputs.cache
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/bin/Debug/net8.0/SOLID Principles
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/bin/Debug/net8.0/SOLID Principles.deps.json
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/bin/Debug/net8.0/SOLID Principles.runtimeconfig.json
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/bin/Debug/net8.0/SOLID Principles.dll
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/bin/Debug/net8.0/SOLID Principles.pdb
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/SOLID Principles.dll
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/refint/SOLID Principles.dll
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/SOLID Principles.pdb
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/SOLID Principles.genruntimeconfig.cache
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/ref/SOLID Principles.dll
