@@ -12,3 +12,4 @@
 /Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/SOLID Principles.pdb
 /Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/SOLID Principles.genruntimeconfig.cache
 /Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/ref/SOLID Principles.dll
+/Users/rohitdalmia/Desktop/LLD/SOLID Principles/obj/Debug/net8.0/SOLID Principles.sourcelink.json
